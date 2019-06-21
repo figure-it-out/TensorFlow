@@ -1,3 +1,9 @@
+文件说明：
+data：存放训练数据与测试数据
+log：存放tf.summary保存的数据，用于tensorboard展示
+inference.py :定义神经网络的结构
+train.py: 定义训练过程（损失函数，算法等）
+
 
 1. 代码架构参考自：
 
