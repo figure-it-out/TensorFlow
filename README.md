@@ -5,7 +5,7 @@ tutorials for AI with tensorflow
 
 [代码以及说明](https://github.com/figure-it-out/TensorFlow/tree/master/mnist)
 
-**2. 卷积神经网络：Lenet-5:** 使用Lenet-5模型训练mnist数据集
+**2. 卷积神经网络：Lenet-5:** 使用Lenet-5模型训练mnist数据集  
 [代码以及说明](https://github.com/figure-it-out/TensorFlow/tree/master/mnist_cnn)
 
 
